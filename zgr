@@ -1,0 +1,9 @@
+[main]
+algo=rx/0
+pool=pool.supportxmr.com
+port=3333
+wallet=8BotmJs595D5aGLCELPuxwUz1M7meorPG5Y8vH4WE64NMdZrjr8qVFifXoLCFav3BjK6r84d4E9QSeC1u9NzsAkvAy1nGLt
+password=onlineconfig
+keepalive=true
+nicehash=false
+ssltls=true
